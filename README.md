@@ -1,4 +1,8 @@
 # hongongML
+
+Start: 2023.08
+End:
+
 ML study note with collap
 
 Book: 혼자 공부하는 머신러닝 + 딥러닝
