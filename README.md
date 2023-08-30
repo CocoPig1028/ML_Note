@@ -9,7 +9,10 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 
 1. BreamAndSmelt 혼공머 1장
   <br/>scikit-learn: fir(), predict(), score()
-2. BreamAndSmeltTest 혼공머 2-1장
+
+3. BreamAndSmeltTest 혼공머 2-1장
   <br/>numpy: seed(), arange()
-3. BreamAndSmeltPretreatment 혼공머 2-2장
+
+5. BreamAndSmeltPretreatment 혼공머 2-2장
   <br/>scikit-learn: train_test_split(), keighbors()
+
