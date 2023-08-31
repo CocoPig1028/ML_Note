@@ -21,3 +21,6 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
   <br/>numpy: reshape()
 
 4. PerchLengthWeightPrediction 혼공머 3-1장 2장 이웃에 따른 농어의 무게 예측
+
+5. PerchLinearRegression 혼공머 3-2장
+   <br/>scikit-learn: LinearRegression, coef_, intercept_
