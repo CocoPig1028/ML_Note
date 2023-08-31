@@ -10,9 +10,11 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 1. BreamAndSmelt 혼공머 1장
   <br/>scikit-learn: fir(), predict(), score()
 
-3. BreamAndSmeltTest 혼공머 2-1장
+2. BreamAndSmeltTest 혼공머 2-1장
   <br/>numpy: seed(), arange()
 
-5. BreamAndSmeltPretreatment 혼공머 2-2장
-  <br/>scikit-learn: train_test_split(), keighbors()
+3. BreamAndSmeltPretreatment 혼공머 2-2장
+  <br/>scikit-learn: train_test_split(), kneighbors()
 
+4. PerchLengthWeight 혼공머 3-1장
+  <br/>scikit-learn: KNeighborsRegressor k-최근접 이웃 회귀 모델을 만드는 사이킷런 클래스, mean_absolute_error(), mean_squared_error()
