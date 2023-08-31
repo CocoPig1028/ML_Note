@@ -18,3 +18,4 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 
 4. PerchLengthWeight 혼공머 3-1장
   <br/>scikit-learn: KNeighborsRegressor k-최근접 이웃 회귀 모델을 만드는 사이킷런 클래스, mean_absolute_error(), mean_squared_error()
+  <br/>numpy: reshape()
