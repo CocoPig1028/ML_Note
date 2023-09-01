@@ -25,3 +25,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 
 6. PerchLinearRegression 혼공머 3-2장
    <br/>scikit-learn: LinearRegression, coef_, intercept_
+
+7. PerchMultipleRegression 혼공머 3-2장
+   <br/>pandas: read_csv()
+   <br/>scikit-learn: PolynomialFeatures, Ridge, Lasso
