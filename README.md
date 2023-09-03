@@ -29,3 +29,6 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 7. PerchMultipleRegression 혼공머 3-3장
    <br/>pandas: read_csv()
    <br/>scikit-learn: PolynomialFeatures, Ridge, Lasso
+
+8. LogisticRegression 혼공머 4-1장
+   <br/>scikit-learn: LogisticRegression, predict_praba(), decision_function()
