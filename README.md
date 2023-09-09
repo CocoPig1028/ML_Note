@@ -35,3 +35,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 
 9. LossFunction 혼공머 4-2장
    <br/>scikit-learn: SGDClassifier, SGDRegressor
+
+10. WineDecisionTree 혼공머 5-1장
+   <br/>pandas: info(), describe()
+   <br/>scikit-learn: DecisionTreeClssifier(criterion, splitter, max_depth, min_samples_split, max_feature), plot_Tree()
