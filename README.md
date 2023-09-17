@@ -39,3 +39,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 10. WineDecisionTree 혼공머 5-1장
    <br/>pandas: info(), describe()
    <br/>scikit-learn: DecisionTreeClssifier(criterion, splitter, max_depth, min_samples_split, max_feature), plot_Tree()
+
+11. hyperParameterSearch 혼공머 5-2장
+   <br/>scikit-learn: cross_validate(), GridSearchCV, RandomizedSearchCV
+   <br/>검증 세트, 교차 검증, 그리드 서치, 랜덤 서치
