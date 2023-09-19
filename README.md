@@ -43,3 +43,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 11. hyperParameterSearch 혼공머 5-2장
    <br/>scikit-learn: cross_validate(), GridSearchCV, RandomizedSearchCV
    <br/>검증 세트, 교차 검증, 그리드 서치, 랜덤 서치
+
+12. EnsembleLearning 혼공머 5-3장
+   <br/>scikit-learn: RandomForestClassifier, ExtraTreesClassifier, GradientBoostingClasifier, HistGradientBoostingClassifier
+   <br/>앙상블 학습, 랜덤 포레스트, 엑스트라 트리, 그레이디언트 부스팅, 히스토그램 기반 그레이디언트 부스팅
