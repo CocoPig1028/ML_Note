@@ -47,3 +47,14 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 12. EnsembleLearning 혼공머 5-3장
    <br/>scikit-learn: RandomForestClassifier, ExtraTreesClassifier, GradientBoostingClasifier, HistGradientBoostingClassifier
    <br/>앙상블 학습, 랜덤 포레스트, 엑스트라 트리, 그레이디언트 부스팅, 히스토그램 기반 그레이디언트 부스팅
+
+13. clustering 혼공머 6-1장
+   <br/>비지도 학습, 군집
+
+14. k_mean 혼공머 6-2장
+   <br/>k-mean, 클러스터 중심, 엘보우 방법
+   <br/>scikit-learn: KMeans
+
+16. PCA 혼공머 6-3장
+   <br/>차원 축소, 주성분 분석, 설명된 분산
+   <br/>scikit-learn: PCA
