@@ -62,3 +62,8 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 17. dl_tf_mnist 혼공머 7-1장
    <br/>인공 신경망, 텐서플로, 밀집층, 원-핫 인코딩
    <br/>TensorFlow: Dense, Sequential, compile(), fit(), evaluate()
+
+18. DNN 혼공머 7-2장
+   <br/>심층신경망, 렐루함수, 옵티마이저
+   <br/>TensorFlow:add(), summary(), SGD, Adagrad, RMSprop, Adam
+
