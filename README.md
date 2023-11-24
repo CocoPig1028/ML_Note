@@ -58,3 +58,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 16. PCA 혼공머 6-3장
    <br/>차원 축소, 주성분 분석, 설명된 분산
    <br/>scikit-learn: PCA
+
+17. dl_tf_mnist 혼공머 7-1장
+   <br/>인공 신경망, 텐서플로, 밀집층, 원-핫 인코딩
+   <br/>TensorFlow: Dense, Sequential, compile(), fit(), evaluate()
