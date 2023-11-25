@@ -67,3 +67,8 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
    <br/>심층신경망, 렐루함수, 옵티마이저
    <br/>TensorFlow:add(), summary(), SGD, Adagrad, RMSprop, Adam
 
+19. neural_md_training 혼공머 7-3정
+   <br/>드롭아웃, 콜백, 조기 종료
+   <br/>TensorFlow: Dropout, save_weights(), load_weights(), save(), load_model(), ModelCheckpoint, EarlyStopping
+   <br/>Numpy: argmax
+
