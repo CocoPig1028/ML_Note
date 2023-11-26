@@ -78,3 +78,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 21. CNN_MNIST_CLASIFY 혼공머 8-2장
    <br/>Conv2D, MaxPooling2D, plot_model
    <br/>TensorFlow: Conv2D, MaxPooling2D, plot_model()
+
+22. CNN_Visual 혼공머 8-3장
+   <br/>가중치 시각화, 특성 맵 시각화, 함수형 API
+   <br/>TensorFlow: Model
