@@ -67,8 +67,14 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
    <br/>심층신경망, 렐루함수, 옵티마이저
    <br/>TensorFlow:add(), summary(), SGD, Adagrad, RMSprop, Adam
 
-19. neural_md_training 혼공머 7-3정
+19. neural_md_training 혼공머 7-3장
    <br/>드롭아웃, 콜백, 조기 종료
    <br/>TensorFlow: Dropout, save_weights(), load_weights(), save(), load_model(), ModelCheckpoint, EarlyStopping
    <br/>Numpy: argmax
 
+20. CNN 혼공머 8-1장
+   <br/>합성곱 신경망
+
+21. CNN_MNIST_CLASIFY 혼공머 8-2장
+   <br/>Conv2D, MaxPooling2D, plot_model
+   <br/>TensorFlow: Conv2D, MaxPooling2D, plot_model()
