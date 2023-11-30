@@ -82,3 +82,7 @@ Book: 혼자 공부하는 머신러닝 + 딥러닝
 22. CNN_Visual 혼공머 8-3장
    <br/>가중치 시각화, 특성 맵 시각화, 함수형 API
    <br/>TensorFlow: Model
+
+22. RNN 혼공머 9-1, 9-2장
+   <br/>말뭉치, 토큰, 원-핫 인코딩, 단어 임딩
+   <br/>TensorFlow: pad_sequences(), to_categorical(), SimpleRNN, Embedding
